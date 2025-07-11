@@ -1,0 +1,3 @@
+We are a passionate team of aspiring Computer Science engineers, driven by curiosity and committed to building real-world solutions through core CS concepts and AI/ML technologies.
+With a strong foundation in Data Structures, Algorithms, Operating Systems, and Software Engineering, we focus on system-level development and innovation.
+Our mission is to solve real problems with practical, scalable, and impactful software solutions.
