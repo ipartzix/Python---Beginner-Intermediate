@@ -1,5 +1,5 @@
 # Python---Beginner-Intermediate
-This repo is a collection of Python basics I learned step-by-step. I made it to revise concepts and also help juniors or beginners who want to start Python easily with clear examples. All pdf I take from Code with Harry sir's youtube playlist 
+This repo is a collection of Python basics I learned step-by-step. I made it to revise concepts and also help juniors or beginners who want to start Python easily with clear examples. All pdf I take from Code with Harry sir's youtube playlist. 
 ---
 # title: Python Learning Repository
 description: A structured Python programming repository covering core concepts, designed for self-learning and to assist beginners with practical examples.
